@@ -13,7 +13,7 @@ import pages.Add_category;
 public class Add_category_testing  {
 
 	WebDriver driver;
-	Add_category category ;
+	Add_category category;
 	
 	@Test
 	@Parameters({"category_value"})

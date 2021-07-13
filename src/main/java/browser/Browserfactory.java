@@ -1,9 +1,7 @@
 package browser;
 
-import org.junit.After;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.testng.annotations.AfterMethod;
 
 public class Browserfactory {
 	static WebDriver driver;
